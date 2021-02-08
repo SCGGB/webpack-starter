@@ -8,6 +8,6 @@ Recuerden reconstruir los modulos de NODE
 
 npm install
 
-Y para construir el build, recuerden:
+Y para construir el build, recuerden usar:
 
 npm run build
